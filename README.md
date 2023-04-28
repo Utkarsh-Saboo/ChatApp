@@ -1,6 +1,5 @@
 # ChatApp
--A simple chat application built using Node.js, Express.js, Socket.io. 
--Information regarding dependencies of required node modules is present in express.Package.lock.json
+A simple chat application built using Node.js, Express.js, Socket.io. Information regarding dependencies of required node modules is present in express.Package.lock.json
 
 
 ## Steps for code execution
